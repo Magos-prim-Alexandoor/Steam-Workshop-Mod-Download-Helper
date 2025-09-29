@@ -18,3 +18,5 @@ Generates .txt file with commands for SteamCMD
 15. Go to steamCMD dir\steamapps\worlshop\content\*Game ID*
 
 If you need clear mod list click on "Clear file" button(maybe add button for remove one string later)
+
+UPD: Old project, maybe i do something with it... someday.
